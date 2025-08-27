@@ -1,4 +1,4 @@
-Grocery Infrastructure on AWS (Terraform)
+## Grocery Infrastructure on AWS (Terraform)
 
 This project provisions a simple cloud infrastructure on *AWS* using *Terraform*.  
 It was built as part of my learning journey in *Cloud & DevOps* 🚀  
